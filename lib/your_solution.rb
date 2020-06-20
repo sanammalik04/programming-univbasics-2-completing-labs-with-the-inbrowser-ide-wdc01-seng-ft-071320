@@ -1,3 +1,2 @@
-# Write your solution here
-
-# This file should output "Hello World!" using a puts statement
+lib/your_solution.rb
+  should output "Hello World!" when run
